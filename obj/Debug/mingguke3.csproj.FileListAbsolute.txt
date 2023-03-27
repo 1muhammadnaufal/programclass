@@ -1,0 +1,8 @@
+D:\visual\tugas\pemrograman\mingguke3\mingguke3\bin\Debug\mingguke3.exe.config
+D:\visual\tugas\pemrograman\mingguke3\mingguke3\bin\Debug\mingguke3.exe
+D:\visual\tugas\pemrograman\mingguke3\mingguke3\bin\Debug\mingguke3.pdb
+D:\visual\tugas\pemrograman\mingguke3\mingguke3\obj\Debug\mingguke3.csproj.AssemblyReference.cache
+D:\visual\tugas\pemrograman\mingguke3\mingguke3\obj\Debug\mingguke3.csproj.SuggestedBindingRedirects.cache
+D:\visual\tugas\pemrograman\mingguke3\mingguke3\obj\Debug\mingguke3.csproj.CoreCompileInputs.cache
+D:\visual\tugas\pemrograman\mingguke3\mingguke3\obj\Debug\mingguke3.exe
+D:\visual\tugas\pemrograman\mingguke3\mingguke3\obj\Debug\mingguke3.pdb
